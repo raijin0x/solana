@@ -1,5 +1,13 @@
 {
-    "name": "SolWIF",
-    "symbol": "SWI",
-    "uri": "https://gateway.pinata.cloud/ipfs/QmeYFddZrkTVkQLXzXZiFabWNW4EjGUoyqpd5CyQTcF8Tj"
+    "name": "Hippeeer",
+    "symbol": "HPE",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/raijin0x/solana/main/assets/meme1.webp",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
   }
+
